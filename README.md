@@ -1,4 +1,4 @@
-# 📊 Relatório Mensal -- InterOp
+# 📊 Relatório Mensal
 
 **Sistema Web para Gerenciamento de Relatórios Mensais de Atividades**
 
